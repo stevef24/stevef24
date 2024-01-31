@@ -23,7 +23,7 @@ A full-stack web developer on a mission to beautify the web, one line of code at
 
 ## Projects
 
-Insert gif or link to demo
+Coming soon... 
 
 
 ## Stats
