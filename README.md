@@ -28,9 +28,6 @@ Coming soon...
 
 ## Stats
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevef24&show_icons=true&locale=en&layout=compact" alt="stevef24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevef24&show_icons=true&locale=en" alt="stevef24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevef24&" alt="stevef24" /></p>
+![](https://github-readme-stats.vercel.app/api?username=stevef24&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stevef24&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevef24&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
