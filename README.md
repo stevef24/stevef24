@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stav Fernandes</h1>
 <h3 align="center">A full-stack web developer on a mission to beautify the web, one line of code at a time.</h3>
 
-- 🔭 SAAS project [blah bla](github.com)
+- 🔭 SAAS project [test](github.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
