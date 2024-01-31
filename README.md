@@ -16,7 +16,7 @@ A full-stack web developer on a mission to beautify the web, one line of code at
 **Other:** `Git` `Typescript` `Figma` `Clerk`, `Framer Motion` `React Three Fiber` `Jenkins` `Cucumber` `Selenium` `React Testing Library`
 
 ## 🤙🏾 Contact
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://stavfernandes.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stavfernandes24/)
 
 
