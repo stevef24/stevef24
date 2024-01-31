@@ -9,11 +9,11 @@ A full-stack web developer on a mission to beautify the web, one line of code at
 
 ## Tech Stack
 
-**Front-end:** `HTML`, `CSS`, `JavaScript`, `React`, `React Native`, `Tailwind CSS`, `Recoil`, `Next.js`
+**Front-end:** `HTML` `CSS` `JavaScript` `React` `React Native` `Tailwind CSS` `Recoil` `Next.js`
 
-**Back-end:** `Node.js`, `Express`, `PostgreSQL`, `Mongo/Mongoose`, `Jest/Supertest`, `Firebase`
+**Back-end:** `Node.js` `Express` `PostgreSQL` `Mongo/Mongoose` `Jest/Supertest` `Firebase`
 
-**Other:** `Git`, `Typescript`, `Figma`, `Clerk`, `Framer Motion`, `React Three Fiber`, `Jenkins`, `Cucumber`, `Selenium`, `React Testing Library`
+**Other:** `Git` `Typescript` `Figma` `Clerk`, `Framer Motion` `React Three Fiber` `Jenkins` `Cucumber` `Selenium` `React Testing Library`
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
