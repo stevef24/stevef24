@@ -7,6 +7,14 @@
 **Hi 👋🏾, I'm Stav Fernandes, 
 A full-stack web developer on a mission to beautify the web, one line of code at a time.**
 
+
+## Currently working on.... 
+#UI Design ✨ (using Figma)#
+#3D Animation 💫 (with Spline)#
+#Animation Libraries 🚀 (GSAP & Framer Motion)#
+
+a bigger project on it way... stay tuned... 
+
 ## Tech Stack
 
 **Front-end:** `HTML` `CSS` `JavaScript` `React` `React Native` `Tailwind CSS` `Recoil` `Next.js`
@@ -22,8 +30,9 @@ A full-stack web developer on a mission to beautify the web, one line of code at
 
 
 ## Projects
+[Lugh AI](https://github.com/stevef24/AI-Saas/tree/main/lughai)
+[Dev Overflow](https://github.com/stevef24/Next13-Stackoverflow)
 
-Coming soon... 
 
 
 ## Stats
