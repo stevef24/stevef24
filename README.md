@@ -9,11 +9,11 @@ A full-stack web developer on a mission to beautify the web, one line of code at
 
 
 ## Currently working on.... 
-#UI Design ✨ (using Figma)#
-#3D Animation 💫 (with Spline)#
-#Animation Libraries 🚀 (GSAP & Framer Motion)#
-
-a bigger project on it way... stay tuned... 
+**UI Design ✨ (using Figma)** <br/>
+**3D Animation 💫 (with Spline)** <br/>
+**Animation Libraries 🚀 (GSAP & Framer Motion)**
+<br/>
+**a bigger project on it way... stay tuned...**
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ a bigger project on it way... stay tuned...
 
 
 ## Projects
-[Lugh AI](https://github.com/stevef24/AI-Saas/tree/main/lughai)
+[Lugh AI](https://github.com/stevef24/AI-Saas/tree/main/lughai) <br/>
 [Dev Overflow](https://github.com/stevef24/Next13-Stackoverflow)
 
 
