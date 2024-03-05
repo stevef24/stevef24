@@ -4,8 +4,8 @@
 
 
 ## 🚀 About Me
-Hi 👋🏾, I'm Stav Fernandes, 
-A full-stack web developer on a mission to beautify the web, one line of code at a time.
+**Hi 👋🏾, I'm Stav Fernandes, 
+A full-stack web developer on a mission to beautify the web, one line of code at a time.**
 
 ## Tech Stack
 
