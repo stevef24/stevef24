@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Stav
 
-<!--
-**stevef24/stevef24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I teach developers how to work with AI without losing their judgment.
 
-Here are some ideas to get you started:
+Most AI content shows you the 80% that almost works. I focus on the 20% that closes the gap — judgment, tooling, and real-world craft around Claude Code, Codex, and the Vercel AI SDK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **devtake studio** — build short-form technical content in public
+- **Craft of AI** — free structured lessons at [learn.stavfernandes.dev](https://learn.stavfernandes.dev)
+- My hub site: [stavfernandes.dev](https://stavfernandes.dev)
+
+## Where to find me
+
+- YouTube: [Code with Stav](https://www.youtube.com/@codewithstav)
+- X: [@stavfernandes](https://x.com/stavfernandes)
+- LinkedIn: [stavfernandes](https://www.linkedin.com/in/stavfernandes)
+- Free lessons: [learn.stavfernandes.dev](https://learn.stavfernandes.dev)
